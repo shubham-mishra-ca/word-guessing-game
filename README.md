@@ -36,7 +36,7 @@ If you wish to contribute to the game or enhance it with additional features, fe
 
 ## :page_facing_up: License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://mit-license.org/). 
 
 ## :mailbox: Contact
 
