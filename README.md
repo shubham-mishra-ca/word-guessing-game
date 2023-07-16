@@ -13,6 +13,11 @@ To get started with the game, follow these steps:
 3. Build and run the application.
 4. Get ready to guess the word and test your vocabulary skills!
 
+Here's the console application in action :fast_forward:
+
+![word-guessing-gmae](https://github.com/shubham-mishra-ca/word-guessing-game/assets/53086327/a57a6fbd-6830-4d25-9dac-0ba9f2b46286)
+
+
 ## :sparkles: Features
 
 The Word Guessing Game includes the following features:
